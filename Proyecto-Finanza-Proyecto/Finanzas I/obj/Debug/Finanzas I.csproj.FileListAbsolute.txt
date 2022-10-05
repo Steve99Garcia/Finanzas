@@ -1,0 +1,35 @@
+C:\Users\Ethan Dávila\source\repos\Finanzas I\Finanzas I\bin\Debug\Finanzas I.exe.config
+C:\Users\Ethan Dávila\source\repos\Finanzas I\Finanzas I\bin\Debug\Finanzas I.exe
+C:\Users\Ethan Dávila\source\repos\Finanzas I\Finanzas I\bin\Debug\Finanzas I.pdb
+C:\Users\Ethan Dávila\source\repos\Finanzas I\Finanzas I\obj\Debug\Finanzas I.csprojAssemblyReference.cache
+C:\Users\Ethan Dávila\source\repos\Finanzas I\Finanzas I\obj\Debug\Finanzas_I.Form1.resources
+C:\Users\Ethan Dávila\source\repos\Finanzas I\Finanzas I\obj\Debug\Finanzas_I.Properties.Resources.resources
+C:\Users\Ethan Dávila\source\repos\Finanzas I\Finanzas I\obj\Debug\Finanzas I.csproj.GenerateResource.cache
+C:\Users\Ethan Dávila\source\repos\Finanzas I\Finanzas I\obj\Debug\Finanzas I.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Dávila\source\repos\Finanzas I\Finanzas I\obj\Debug\Finanzas I.exe
+C:\Users\Ethan Dávila\source\repos\Finanzas I\Finanzas I\obj\Debug\Finanzas I.pdb
+C:\Users\Ethan Dávila\Desktop\Finanzas I\Finanzas I\bin\Debug\Finanzas I.exe.config
+C:\Users\Ethan Dávila\Desktop\Finanzas I\Finanzas I\bin\Debug\Finanzas I.exe
+C:\Users\Ethan Dávila\Desktop\Finanzas I\Finanzas I\bin\Debug\Finanzas I.pdb
+C:\Users\Ethan Dávila\Desktop\Finanzas I\Finanzas I\obj\Debug\Finanzas I.csprojAssemblyReference.cache
+C:\Users\Ethan Dávila\Desktop\Finanzas I\Finanzas I\obj\Debug\Finanzas_I.Main.resources
+C:\Users\Ethan Dávila\Desktop\Finanzas I\Finanzas I\obj\Debug\Finanzas_I.Properties.Resources.resources
+C:\Users\Ethan Dávila\Desktop\Finanzas I\Finanzas I\obj\Debug\Finanzas I.csproj.GenerateResource.cache
+C:\Users\Ethan Dávila\Desktop\Finanzas I\Finanzas I\obj\Debug\Finanzas I.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Dávila\Desktop\Finanzas I\Finanzas I\obj\Debug\Finanzas I.exe
+C:\Users\Ethan Dávila\Desktop\Finanzas I\Finanzas I\obj\Debug\Finanzas I.pdb
+C:\Users\Ethan Dávila\Desktop\Finanzas I\Finanzas I\obj\Debug\Finanzas_I.Inicio.resources
+C:\Users\Ethan Dávila\Desktop\Finanzas I\Finanzas I\obj\Debug\Finanzas_I.Liquidez.resources
+C:\Users\Sistemas14\Desktop\Proyecto-Finanza\Finanzas I\bin\Debug\Finanzas I.exe.config
+C:\Users\Sistemas14\Desktop\Proyecto-Finanza\Finanzas I\bin\Debug\Finanzas I.exe
+C:\Users\Sistemas14\Desktop\Proyecto-Finanza\Finanzas I\bin\Debug\Finanzas I.pdb
+C:\Users\Sistemas14\Desktop\Proyecto-Finanza\Finanzas I\obj\Debug\Finanzas I.csprojAssemblyReference.cache
+C:\Users\Sistemas14\Desktop\Proyecto-Finanza\Finanzas I\obj\Debug\Finanzas_I.BalanceGeneral.resources
+C:\Users\Sistemas14\Desktop\Proyecto-Finanza\Finanzas I\obj\Debug\Finanzas_I.Inicio.resources
+C:\Users\Sistemas14\Desktop\Proyecto-Finanza\Finanzas I\obj\Debug\Finanzas_I.Liquidez.resources
+C:\Users\Sistemas14\Desktop\Proyecto-Finanza\Finanzas I\obj\Debug\Finanzas_I.Main.resources
+C:\Users\Sistemas14\Desktop\Proyecto-Finanza\Finanzas I\obj\Debug\Finanzas_I.Properties.Resources.resources
+C:\Users\Sistemas14\Desktop\Proyecto-Finanza\Finanzas I\obj\Debug\Finanzas I.csproj.GenerateResource.cache
+C:\Users\Sistemas14\Desktop\Proyecto-Finanza\Finanzas I\obj\Debug\Finanzas I.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas14\Desktop\Proyecto-Finanza\Finanzas I\obj\Debug\Finanzas I.exe
+C:\Users\Sistemas14\Desktop\Proyecto-Finanza\Finanzas I\obj\Debug\Finanzas I.pdb
